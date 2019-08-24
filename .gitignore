@@ -1,10 +1,11 @@
-jquery/bracket
-scripts/__pycache__
-scripts/DiscordBot/__pycache__
-.htaccess
-oth.sql
+**/node_modules/*
 *.pyc
+.htaccess
 config.json
 scripts/DiscordBot/nohup.out
 node/nohup.out
 nohup.out
+jquery/bracket
+oth.sql
+scripts/__pycache__
+scripts/DiscordBot/__pycache__
