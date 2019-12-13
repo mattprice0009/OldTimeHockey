@@ -60,8 +60,6 @@ MyDocument.getInitialProps = (ctx) => {
   // 3. app.render
   // 4. page.render
 
-  console.log('In docuement');
-
   // Render app and page and get the context of the page with collected side effects.
   let pageContext;
   const page = ctx.renderPage((Component) => {

@@ -3,12 +3,12 @@ import { createMuiTheme, createGenerateClassName } from '@material-ui/core/style
 
 const theme = createMuiTheme({
   constants: {
-    drawerWidth: 190,
+    drawerWidth: 210,
   },
   palette: {
     oth: {
       primary: '#0B4F6C',
-      secondary: '#4281A4',
+      secondary: '#222',
       tertiary: '#4E878C',
       quarternary: '#7C8483',
       quniary: '#A9BA9D',
