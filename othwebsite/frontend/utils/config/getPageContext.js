@@ -9,29 +9,10 @@ const theme = createMuiTheme({
     oth: {
       primary: '#0B4F6C',
       secondary: '#222',
-      tertiary: '#4E878C',
-      quarternary: '#7C8483',
-      quniary: '#A9BA9D',
-      senary: '#DAD5CF',
     },
     other: {
-      action: '#ED4E15',
-      orange: '#F18972',
       grey1: '#EBEBEB',
       grey2: '#D8DBDD',
-      text: 'azure',
-      lightBG: '#E7ECE4',
-    },
-    primary: {
-      main: '#0B4F6C',
-    },
-    error: {
-      main: '#EB7E91',
-      contrastText: '#fff',
-    },
-    secondary: {
-      main: '#EB7E91',
-      contrastText: '#fff',
     },
   },
   typography: {
